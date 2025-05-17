@@ -1,4 +1,4 @@
-# DECT
+# Warum DECT?
 
 Auf vielen Chaos-Events gibt es ein **temporäres lokales Telefonnetz**.  
 Der ganze Chaos-Telefonkram wird gerne einfach als "DECT" bezeichnet, auch wenn dabei ggf. noch andere Technologien zum Einsatz kommen.

@@ -1,8 +1,15 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-polyglot
 
 markdown: kramdown
 
 title: "DECT at Chaos events"
 description: "Why and how do I use telephony at Chaos events?"
+
+languages: ["en", "de"]
+default_lang: "en"
+lang_from_path: true
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "assets"]
+url: https://n-st.github.io/why-dect/
