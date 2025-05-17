@@ -1,30 +1,6 @@
-# Warum DECT?
+# Was brauche ich zum Telefonieren?
 
-Auf vielen Chaos-Events gibt es ein **temporäres lokales Telefonnetz**.  
-Der ganze Chaos-Telefonkram wird gerne einfach als "DECT" bezeichnet, auch wenn dabei ggf. noch andere Technologien zum Einsatz kommen.
-
-Vor Ort wird primär der Funkstandard "DECT" genutzt, den z.B. auch die schnurlosen Telefone daheim oder in Firmen/Krankenhäusern/Hochschulen verwenden. Im besten Fall habt ihr also schon ein kompatibles Gerät daheim und könnt es auf dem Event direkt verwenden.  
-Meist stellt das selbe System auch einen SIP-Server bereit, über den ihr mit einem kompatiblen Client ebenfalls telefonieren könnt.  
-Auf größeren Veranstaltungen (i.d.R. Chaos Communication Congress und Camp) wird oft auch ein lokales Mobilfunknetz aufgebaut, das ebenfalls mit dem Event-Telefonnetz verbunden ist. (Funkstandard GSM, UMTS, LTE, 5G — je nach verfügbarer Hardware und Frequenzzuteilung)
-
-TL;DR: Ein Telefonnetz, mehrere Zugangswege.
-
-## Warum will ich das?
-
-- Kontakt zu anderen Wesen auf dem Event
-  - ohne persönliche Daten (Handynummer o.ä.) preisgeben zu müssen
-  - andere Teilnehmende im eventinternen Telefonbuch finden
-  - Community-Gefühl: lauter nette Leute mit vierstelligen Telefonnummern ;)
-- Technisch nützlich
-  - bessere Akkulaufzeit als ein Smartphone
-  - unabhängig von WLAN und mobilem Internet
-- Spaß am Gerät
-  - Gimmicks im Telefonnetz (Witzhotline, Labyrinth, …)
-  - eigene Projekte (telefonische Waffel-Bestellung, SIP-Pixelflut, …)
-
-## Was brauche ich dafür?
-
-Es gibt verschiedene Einwahlmöglichkeiten mit Vor- und Nachteilen:
+Ihr könnt euch mit unterschiedlicher Hard- oder Software ins Telefonnetz einwählen:
 
 ### SIP: Smartphone-App oder Computer-Software
 Prinzipiell ist das Event-Telefonnetz auch per SIP (aka Voice-over-IP) nutzbar, normalerweise sowohl aus dem Event-WLAN, als auch "von außen".  

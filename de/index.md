@@ -1,8 +1,8 @@
 # "DECT"
 
-[➔ 🌐‍🗨️ zur **Deutschen Version**](en/)
+[➔ 🌐‍🗨️ jump to **English** version](../)
 
-## What's that?
+## Was ist das?
 
 Auf vielen [Chaos-Events](https://events.ccc.de/calendar/) gibt es ein **temporäres lokales Telefonnetz**.  
 Der ganze Chaos-Telefonkram wird gerne einfach als "DECT" bezeichnet, auch wenn dabei ggf. noch andere Technologien zum Einsatz kommen.
@@ -13,7 +13,7 @@ Auf größeren Veranstaltungen (i.d.R. Chaos Communication Congress und Camp) wi
 
 TL;DR: Ein Telefonnetz, [mehrere Zugangswege](options.md).
 
-## Why would I want that?
+## Warum will ich das?
 
 - Kontakt zu anderen Wesen auf dem Event
   - ohne persönliche Daten (Handynummer o.ä.) preisgeben zu müssen
@@ -26,12 +26,12 @@ TL;DR: Ein Telefonnetz, [mehrere Zugangswege](options.md).
   - Gimmicks im Telefonnetz (Witzhotline, Labyrinth, …)
   - eigene Projekte (telefonische Waffel-Bestellung, SIP-Pixelflut, …)
 
-## What hardware or software do I need?
+## Was brauche ich dafür?
 
 Es gibt verschiedene Einwahlmöglichkeiten mit jeweils unterschiedlichen Vor- und Nachteilen. Der Übersicht halber haben wir die Liste auf eine eigene Unterseite ausgelagert.
 
 **[➔ Telefoniegeräte und -clients](options.md)**
 
-## Who's operating all this?
+## Wer macht das?
 
 TODO.
