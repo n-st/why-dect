@@ -1,3 +1,8 @@
+---
+title: "DECT auf Chaos-Events"
+description: "Wie funktioniert Telefonie auf Chaos-Events und wofür ist sie nützlich?"
+---
+
 # "DECT"
 
 [➔ 🌐‍🗨️ jump to **English** version](../)
