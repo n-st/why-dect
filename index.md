@@ -1,6 +1,6 @@
 # "DECT"
 
-[➔ 🌐‍🗨️ zur **Deutschen Version**](en/)
+[➔ 🌐‍🗨️ zur **Deutschen Version**](de/)
 
 ## What's that?
 
